@@ -1,0 +1,1066 @@
+[2023-01-07T02:58:14.308383 26440] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.308383 26440] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) base_dir = 
+[2023-01-07T02:58:14.308383 26440] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.308383 26440] Config: (default) compiler = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.308383 26440] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.308383 26440] Config: (default) compression = true
+[2023-01-07T02:58:14.308383 26440] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.308383 26440] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) debug = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.308383 26440] Config: (default) disable = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) file_clone = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) hard_link = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.308383 26440] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.308383 26440] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.308383 26440] Config: (default) max_files = 0
+[2023-01-07T02:58:14.308383 26440] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.308383 26440] Config: (default) namespace = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) path = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) read_only = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) recache = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) reshare = false
+[2023-01-07T02:58:14.308383 26440] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.308383 26440] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.308383 26440] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.308383 26440] Config: (default) stats = true
+[2023-01-07T02:58:14.308383 26440] Config: (default) stats_log = 
+[2023-01-07T02:58:14.308383 26440] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.308383 26440] Config: (default) umask = 
+[2023-01-07T02:58:14.309382 26440] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2023-01-07T02:58:14.318382 25512] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.318382 25512] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) base_dir = 
+[2023-01-07T02:58:14.318382 25512] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.318382 25512] Config: (default) compiler = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.318382 25512] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.318382 25512] Config: (default) compression = true
+[2023-01-07T02:58:14.318382 25512] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.318382 25512] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) debug = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.318382 25512] Config: (default) disable = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) file_clone = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) hard_link = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.318382 25512] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.318382 25512] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.318382 25512] Config: (default) max_files = 0
+[2023-01-07T02:58:14.318382 25512] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.318382 25512] Config: (default) namespace = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) path = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) read_only = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) recache = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) reshare = false
+[2023-01-07T02:58:14.318382 25512] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.318382 25512] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.318382 25512] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.318382 25512] Config: (default) stats = true
+[2023-01-07T02:58:14.318382 25512] Config: (default) stats_log = 
+[2023-01-07T02:58:14.318382 25512] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.318382 25512] Config: (default) umask = 
+[2023-01-07T02:58:14.318382 25512] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2023-01-07T02:58:14.321383 26440] Hostname: Nameless
+[2023-01-07T02:58:14.321383 26440] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.321383 26440] Compiler type: gcc
+[2023-01-07T02:58:14.322383 26440] Source file: __helpers.c
+[2023-01-07T02:58:14.322383 26440] Object file: __helpers.o
+[2023-01-07T02:58:14.323384 26440] Trying direct lookup
+[2023-01-07T02:58:14.324384 26440] No 11bcgp44im5qffjk88bhgp4eo9savi62q in primary storage
+[2023-01-07T02:58:14.327383 26440] Running preprocessor
+[2023-01-07T02:58:14.328383 25512] Hostname: Nameless
+[2023-01-07T02:58:14.328383 25512] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.328383 25512] Compiler type: gcc
+[2023-01-07T02:58:14.329382 25512] Source file: __loader.c
+[2023-01-07T02:58:14.329382 25512] Object file: __loader.o
+[2023-01-07T02:58:14.329382 25512] Trying direct lookup
+[2023-01-07T02:58:14.330383 25512] No 610ecjjdmbhnl43ggmbcvi4d1sd7epieq in primary storage
+[2023-01-07T02:58:14.332384 11272] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.332384 11272] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) base_dir = 
+[2023-01-07T02:58:14.332384 11272] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.332384 11272] Config: (default) compiler = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.332384 11272] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.332384 11272] Config: (default) compression = true
+[2023-01-07T02:58:14.332384 11272] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.332384 11272] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) debug = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.332384 11272] Config: (default) disable = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) file_clone = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) hard_link = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.332384 11272] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.332384 11272] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.332384 11272] Config: (default) max_files = 0
+[2023-01-07T02:58:14.332384 11272] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.332384 11272] Config: (default) namespace = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) path = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) read_only = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) recache = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) reshare = false
+[2023-01-07T02:58:14.332384 11272] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.332384 11272] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.332384 11272] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.332384 11272] Config: (default) stats = true
+[2023-01-07T02:58:14.332384 11272] Config: (default) stats_log = 
+[2023-01-07T02:58:14.332384 11272] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.332384 11272] Config: (default) umask = 
+[2023-01-07T02:58:14.332384 11272] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.PySide6-preLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.PySide6-preLoad.c
+[2023-01-07T02:58:14.333384 25512] Running preprocessor
+[2023-01-07T02:58:14.339384 8380 ] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) base_dir = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) compiler = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) compression = true
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) debug = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) disable = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) file_clone = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) hard_link = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.339384 8380 ] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) max_files = 0
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) namespace = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) path = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) read_only = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) recache = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) reshare = false
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) stats = true
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) stats_log = 
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.339384 8380 ] Config: (default) umask = 
+[2023-01-07T02:58:14.339384 8380 ] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2023-01-07T02:58:14.342383 11272] Hostname: Nameless
+[2023-01-07T02:58:14.342383 11272] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.342383 11272] Compiler type: gcc
+[2023-01-07T02:58:14.343383 11272] Source file: module.PySide6-preLoad.c
+[2023-01-07T02:58:14.343383 11272] Object file: module.PySide6-preLoad.o
+[2023-01-07T02:58:14.343383 11272] Trying direct lookup
+[2023-01-07T02:58:14.344383 22748] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.344383 22748] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) base_dir = 
+[2023-01-07T02:58:14.344383 22748] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.344383 22748] Config: (default) compiler = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.344383 22748] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.344383 22748] Config: (default) compression = true
+[2023-01-07T02:58:14.344383 22748] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.344383 22748] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) debug = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.344383 22748] Config: (default) disable = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) file_clone = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) hard_link = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.344383 22748] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.344383 22748] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.344383 22748] Config: (default) max_files = 0
+[2023-01-07T02:58:14.344383 22748] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.344383 22748] Config: (default) namespace = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) path = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) read_only = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) recache = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) reshare = false
+[2023-01-07T02:58:14.344383 22748] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.344383 22748] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.344383 22748] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.344383 22748] Config: (default) stats = true
+[2023-01-07T02:58:14.344383 22748] Config: (default) stats_log = 
+[2023-01-07T02:58:14.344383 22748] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.344383 22748] Config: (default) umask = 
+[2023-01-07T02:58:14.344383 22748] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.PySide6.QtCore-postLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.PySide6.QtCore-postLoad.c
+[2023-01-07T02:58:14.344383 11272] No 6823endq5p3dlqk4m78p1r7gvajfm4h7s in primary storage
+[2023-01-07T02:58:14.347383 11272] Running preprocessor
+[2023-01-07T02:58:14.352383 21300] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.352383 8380 ] Hostname: Nameless
+[2023-01-07T02:58:14.352383 8380 ] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.352383 21300] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) base_dir = 
+[2023-01-07T02:58:14.352383 21300] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.352383 21300] Config: (default) compiler = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.352383 21300] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.352383 21300] Config: (default) compression = true
+[2023-01-07T02:58:14.352383 21300] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.352383 21300] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) debug = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.352383 21300] Config: (default) disable = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) file_clone = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) hard_link = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.352383 21300] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.352383 21300] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.352383 21300] Config: (default) max_files = 0
+[2023-01-07T02:58:14.352383 21300] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.352383 21300] Config: (default) namespace = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) path = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) read_only = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) recache = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) reshare = false
+[2023-01-07T02:58:14.352383 21300] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.352383 21300] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.352383 21300] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.352383 21300] Config: (default) stats = true
+[2023-01-07T02:58:14.352383 21300] Config: (default) stats_log = 
+[2023-01-07T02:58:14.352383 21300] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.352383 21300] Config: (default) umask = 
+[2023-01-07T02:58:14.352383 21300] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.PySide6.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.PySide6.c
+[2023-01-07T02:58:14.353385 8380 ] Source file: __constants.c
+[2023-01-07T02:58:14.353385 8380 ] Object file: __constants.o
+[2023-01-07T02:58:14.353385 8380 ] Trying direct lookup
+[2023-01-07T02:58:14.354384 8380 ] No 2fbanf0isch7fe45n648pjq5ek0irctm2 in primary storage
+[2023-01-07T02:58:14.355384 22748] Hostname: Nameless
+[2023-01-07T02:58:14.355384 22748] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.355384 22748] Compiler type: gcc
+[2023-01-07T02:58:14.356384 22748] Source file: module.PySide6.QtCore-postLoad.c
+[2023-01-07T02:58:14.356384 22748] Object file: module.PySide6.QtCore-postLoad.o
+[2023-01-07T02:58:14.356384 22748] Trying direct lookup
+[2023-01-07T02:58:14.357384 22748] No e1612ea735c6fl4vo8pc12el803ufk5go in primary storage
+[2023-01-07T02:58:14.357384 8380 ] Running preprocessor
+[2023-01-07T02:58:14.367382 21300] Hostname: Nameless
+[2023-01-07T02:58:14.367382 21300] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.367382 21300] Compiler type: gcc
+[2023-01-07T02:58:14.369384 21300] Source file: module.PySide6.c
+[2023-01-07T02:58:14.369384 21300] Object file: module.PySide6.o
+[2023-01-07T02:58:14.369384 22748] Running preprocessor
+[2023-01-07T02:58:14.369384 21300] Trying direct lookup
+[2023-01-07T02:58:14.370382 21300] No 5a91akirj6e0tpc771g0g84anm4mmrge4 in primary storage
+[2023-01-07T02:58:14.375382 21300] Running preprocessor
+[2023-01-07T02:58:14.380382 19900] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.380382 19900] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) base_dir = 
+[2023-01-07T02:58:14.380382 19900] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.380382 19900] Config: (default) compiler = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.380382 19900] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.380382 19900] Config: (default) compression = true
+[2023-01-07T02:58:14.380382 19900] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.380382 19900] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) debug = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.380382 19900] Config: (default) disable = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) file_clone = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) hard_link = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.380382 19900] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.380382 19900] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.380382 19900] Config: (default) max_files = 0
+[2023-01-07T02:58:14.380382 19900] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.380382 19900] Config: (default) namespace = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) path = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) read_only = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) recache = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) reshare = false
+[2023-01-07T02:58:14.380382 19900] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.380382 19900] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.380382 19900] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.380382 19900] Config: (default) stats = true
+[2023-01-07T02:58:14.380382 19900] Config: (default) stats_log = 
+[2023-01-07T02:58:14.380382 19900] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.380382 19900] Config: (default) umask = 
+[2023-01-07T02:58:14.380382 19900] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2023-01-07T02:58:14.394385 19900] Hostname: Nameless
+[2023-01-07T02:58:14.394385 19900] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.394385 19900] Compiler type: gcc
+[2023-01-07T02:58:14.394385 19900] Source file: module.__main__.c
+[2023-01-07T02:58:14.394385 19900] Object file: module.__main__.o
+[2023-01-07T02:58:14.395384 19900] Trying direct lookup
+[2023-01-07T02:58:14.396384 19900] No 6392q6892buhhse4vg8q4dbhpunoni5b0 in primary storage
+[2023-01-07T02:58:14.399383 19900] Running preprocessor
+[2023-01-07T02:58:14.401384 16276] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.401384 16276] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) base_dir = 
+[2023-01-07T02:58:14.401384 16276] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.401384 16276] Config: (default) compiler = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.401384 16276] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.401384 16276] Config: (default) compression = true
+[2023-01-07T02:58:14.401384 16276] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.401384 16276] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) debug = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.401384 16276] Config: (default) disable = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) file_clone = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) hard_link = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.401384 16276] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.401384 16276] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.401384 16276] Config: (default) max_files = 0
+[2023-01-07T02:58:14.401384 16276] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.401384 16276] Config: (default) namespace = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) path = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) read_only = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) recache = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) reshare = false
+[2023-01-07T02:58:14.401384 16276] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.401384 16276] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.401384 16276] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.401384 16276] Config: (default) stats = true
+[2023-01-07T02:58:14.401384 16276] Config: (default) stats_log = 
+[2023-01-07T02:58:14.401384 16276] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.401384 16276] Config: (default) umask = 
+[2023-01-07T02:58:14.401384 16276] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.config.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.config.c
+[2023-01-07T02:58:14.423383 16276] Hostname: Nameless
+[2023-01-07T02:58:14.423383 16276] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.423383 16276] Compiler type: gcc
+[2023-01-07T02:58:14.423383 16276] Source file: module.config.c
+[2023-01-07T02:58:14.423383 16276] Object file: module.config.o
+[2023-01-07T02:58:14.424384 16276] Trying direct lookup
+[2023-01-07T02:58:14.425384 16276] No 148f7duhqjqfaoo4k8chpfnvi13vbqko2 in primary storage
+[2023-01-07T02:58:14.425384 25792] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.425384 25792] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) base_dir = 
+[2023-01-07T02:58:14.425384 25792] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.425384 25792] Config: (default) compiler = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.425384 25792] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.425384 25792] Config: (default) compression = true
+[2023-01-07T02:58:14.425384 25792] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.425384 25792] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) debug = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.425384 25792] Config: (default) disable = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) file_clone = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) hard_link = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.425384 25792] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.425384 25792] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.425384 25792] Config: (default) max_files = 0
+[2023-01-07T02:58:14.425384 25792] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.425384 25792] Config: (default) namespace = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) path = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) read_only = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) recache = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) reshare = false
+[2023-01-07T02:58:14.425384 25792] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.425384 25792] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.425384 25792] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.425384 25792] Config: (default) stats = true
+[2023-01-07T02:58:14.425384 25792] Config: (default) stats_log = 
+[2023-01-07T02:58:14.425384 25792] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.425384 25792] Config: (default) umask = 
+[2023-01-07T02:58:14.426382 25792] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.shiboken6.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.shiboken6.c
+[2023-01-07T02:58:14.428383 16276] Running preprocessor
+[2023-01-07T02:58:14.441384 9952 ] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) base_dir = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) compiler = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) compression = true
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) debug = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) disable = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) file_clone = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) hard_link = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.441384 9952 ] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) max_files = 0
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) namespace = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) path = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) read_only = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) recache = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) reshare = false
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) stats = true
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) stats_log = 
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.441384 9952 ] Config: (default) umask = 
+[2023-01-07T02:58:14.441384 9952 ] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.ui_untitled.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src module.ui_untitled.c
+[2023-01-07T02:58:14.453383 9952 ] Hostname: Nameless
+[2023-01-07T02:58:14.453383 9952 ] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.453383 9952 ] Compiler type: gcc
+[2023-01-07T02:58:14.454383 9952 ] Source file: module.ui_untitled.c
+[2023-01-07T02:58:14.454383 9952 ] Object file: module.ui_untitled.o
+[2023-01-07T02:58:14.454383 9952 ] Trying direct lookup
+[2023-01-07T02:58:14.455383 9952 ] No 2404k3q2osdouvoqvbdqltq2tb0dm9mi2 in primary storage
+[2023-01-07T02:58:14.456384 25792] Hostname: Nameless
+[2023-01-07T02:58:14.456384 25792] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.456384 25792] Compiler type: gcc
+[2023-01-07T02:58:14.457383 25792] Source file: module.shiboken6.c
+[2023-01-07T02:58:14.457383 25792] Object file: module.shiboken6.o
+[2023-01-07T02:58:14.457383 25792] Trying direct lookup
+[2023-01-07T02:58:14.458383 25792] No c6d6tmumt76tto4jvs0het296i929ed3o in primary storage
+[2023-01-07T02:58:14.459384 18396] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.459384 18396] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) base_dir = 
+[2023-01-07T02:58:14.459384 18396] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.459384 18396] Config: (default) compiler = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.459384 18396] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.459384 18396] Config: (default) compression = true
+[2023-01-07T02:58:14.459384 18396] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.459384 18396] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) debug = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.459384 18396] Config: (default) disable = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) file_clone = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) hard_link = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.459384 18396] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.459384 18396] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.459384 18396] Config: (default) max_files = 0
+[2023-01-07T02:58:14.459384 18396] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.459384 18396] Config: (default) namespace = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) path = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) read_only = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) recache = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) reshare = false
+[2023-01-07T02:58:14.459384 18396] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.459384 18396] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.459384 18396] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.459384 18396] Config: (default) stats = true
+[2023-01-07T02:58:14.459384 18396] Config: (default) stats_log = 
+[2023-01-07T02:58:14.459384 18396] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.459384 18396] Config: (default) umask = 
+[2023-01-07T02:58:14.459384 18396] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2023-01-07T02:58:14.460383 25792] Running preprocessor
+[2023-01-07T02:58:14.464383 9952 ] Running preprocessor
+[2023-01-07T02:58:14.472383 18396] Hostname: Nameless
+[2023-01-07T02:58:14.472383 18396] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.472383 18396] Compiler type: gcc
+[2023-01-07T02:58:14.473384 18396] Source file: static_src\MainProgram.c
+[2023-01-07T02:58:14.473384 18396] Object file: static_src\MainProgram.o
+[2023-01-07T02:58:14.473384 18396] Trying direct lookup
+[2023-01-07T02:58:14.474384 18396] No 03b5o68hp468ovk6qt7hicma7i6ank74m in primary storage
+[2023-01-07T02:58:14.477384 18396] Running preprocessor
+[2023-01-07T02:58:14.589385 9904 ] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) base_dir = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) compiler = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) compiler_type = auto
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) compression = true
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) compression_level = 0
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) cpp_extension = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) debug = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) debug_dir = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) depend_mode = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) direct_mode = true
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) disable = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) file_clone = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) hard_link = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) hash_dir = true
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) ignore_options = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) inode_cache = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:14.589385 9904 ] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) max_files = 0
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) namespace = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) path = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) prefix_command = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) read_only = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) read_only_direct = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) recache = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) reshare = false
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) secondary_storage = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) stats = true
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) stats_log = 
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:14.589385 9904 ] Config: (default) umask = 
+[2023-01-07T02:58:14.589385 9904 ] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2023-01-07T02:58:14.619384 9904 ] Hostname: Nameless
+[2023-01-07T02:58:14.619384 9904 ] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:14.619384 9904 ] Compiler type: gcc
+[2023-01-07T02:58:14.619384 9904 ] Source file: static_src\CompiledCellType.c
+[2023-01-07T02:58:14.619384 9904 ] Object file: static_src\CompiledCellType.o
+[2023-01-07T02:58:14.620385 9904 ] Trying direct lookup
+[2023-01-07T02:58:14.621385 9904 ] No bd2eon8um2hqi11828ve9m72sq3doif2k in primary storage
+[2023-01-07T02:58:14.635384 9904 ] Running preprocessor
+[2023-01-07T02:58:14.825383 25512] Got result key from preprocessor
+[2023-01-07T02:58:14.826384 25512] Retrieved bf27bj436lgrnvqi0dp93v2k9tg5is8r2 from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/27bj436lgrnvqi0dp93v2k9tg5is8r2R)
+[2023-01-07T02:58:14.827384 25512] Reading embedded entry #0 .o (27472 bytes)
+[2023-01-07T02:58:14.827384 25512] Writing to __loader.o
+[2023-01-07T02:58:14.827384 25512] Succeeded getting cached result
+[2023-01-07T02:58:14.828382 25512] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/1/0ecjjdmbhnl43ggmbcvi4d1sd7epieqM
+[2023-01-07T02:58:14.874383 25512] Using default compression level 1
+[2023-01-07T02:58:14.876383 25512] Stored 610ecjjdmbhnl43ggmbcvi4d1sd7epieq in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/1/0ecjjdmbhnl43ggmbcvi4d1sd7epieqM)
+[2023-01-07T02:58:14.876383 25512] Result: direct_cache_miss
+[2023-01-07T02:58:14.876383 25512] Result: preprocessed_cache_hit
+[2023-01-07T02:58:14.876383 25512] Result: primary_storage_hit
+[2023-01-07T02:58:14.876383 25512] Result: primary_storage_miss
+[2023-01-07T02:58:14.877384 25512] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-01-07T02:58:14.879384 25512] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-01-07T02:58:14.881383 25512] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/8/stats.lock
+[2023-01-07T02:58:14.887384 25512] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/8/stats.lock
+[2023-01-07T02:58:14.887384 25512] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.Tv1Azo
+[2023-01-07T02:58:14.888385 25512] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.IB1A0l.i
+[2023-01-07T02:58:14.888385 25512] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.IB1A0l
+[2023-01-07T02:58:15.217387 17604] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:15.217387 17604] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) base_dir = 
+[2023-01-07T02:58:15.217387 17604] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:15.217387 17604] Config: (default) compiler = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:15.217387 17604] Config: (default) compiler_type = auto
+[2023-01-07T02:58:15.217387 17604] Config: (default) compression = true
+[2023-01-07T02:58:15.217387 17604] Config: (default) compression_level = 0
+[2023-01-07T02:58:15.217387 17604] Config: (default) cpp_extension = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) debug = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) debug_dir = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) depend_mode = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) direct_mode = true
+[2023-01-07T02:58:15.217387 17604] Config: (default) disable = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) file_clone = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) hard_link = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) hash_dir = true
+[2023-01-07T02:58:15.217387 17604] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) ignore_options = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) inode_cache = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:15.217387 17604] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:15.217387 17604] Config: (default) max_files = 0
+[2023-01-07T02:58:15.217387 17604] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:15.217387 17604] Config: (default) namespace = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) path = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) prefix_command = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) read_only = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) read_only_direct = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) recache = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) reshare = false
+[2023-01-07T02:58:15.217387 17604] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:15.217387 17604] Config: (default) secondary_storage = 
+[2023-01-07T02:58:15.217387 17604] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:15.217387 17604] Config: (default) stats = true
+[2023-01-07T02:58:15.217387 17604] Config: (default) stats_log = 
+[2023-01-07T02:58:15.217387 17604] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:15.217387 17604] Config: (default) umask = 
+[2023-01-07T02:58:15.217387 17604] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2023-01-07T02:58:15.227384 17604] Hostname: Nameless
+[2023-01-07T02:58:15.227384 17604] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:15.227384 17604] Compiler type: gcc
+[2023-01-07T02:58:15.227384 17604] Source file: static_src\CompiledFunctionType.c
+[2023-01-07T02:58:15.227384 17604] Object file: static_src\CompiledFunctionType.o
+[2023-01-07T02:58:15.228385 17604] Trying direct lookup
+[2023-01-07T02:58:15.228385 17604] No 01fa95lu9khqmj8ju6qehvl0i3g0875gk in primary storage
+[2023-01-07T02:58:15.231384 17604] Running preprocessor
+[2023-01-07T02:58:16.655385 11272] Got result key from preprocessor
+[2023-01-07T02:58:16.656382 11272] Retrieved e01a9voupnvpmdjj3hg8iepcpodfev4bg from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/1a9voupnvpmdjj3hg8iepcpodfev4bgR)
+[2023-01-07T02:58:16.657381 11272] Reading embedded entry #0 .o (9102 bytes)
+[2023-01-07T02:58:16.657381 11272] Writing to module.PySide6-preLoad.o
+[2023-01-07T02:58:16.657381 11272] Succeeded getting cached result
+[2023-01-07T02:58:16.657381 11272] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/23endq5p3dlqk4m78p1r7gvajfm4h7sM
+[2023-01-07T02:58:16.876384 11272] Using default compression level 1
+[2023-01-07T02:58:16.879383 11272] Stored 6823endq5p3dlqk4m78p1r7gvajfm4h7s in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/23endq5p3dlqk4m78p1r7gvajfm4h7sM)
+[2023-01-07T02:58:16.879383 11272] Result: direct_cache_miss
+[2023-01-07T02:58:16.879383 11272] Result: preprocessed_cache_hit
+[2023-01-07T02:58:16.879383 11272] Result: primary_storage_hit
+[2023-01-07T02:58:16.879383 11272] Result: primary_storage_miss
+[2023-01-07T02:58:16.879383 11272] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-01-07T02:58:16.882383 11272] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-01-07T02:58:16.883382 11272] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/stats.lock
+[2023-01-07T02:58:16.894383 11272] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/stats.lock
+[2023-01-07T02:58:16.894383 11272] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.fg7TDa
+[2023-01-07T02:58:16.894383 11272] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.g3y6uL.i
+[2023-01-07T02:58:16.895382 11272] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.g3y6uL
+[2023-01-07T02:58:16.941384 19900] Got result key from preprocessor
+[2023-01-07T02:58:16.942384 19900] Retrieved e28063s9u72dhfmo00cc5ogusqc9mqthc from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/2/8063s9u72dhfmo00cc5ogusqc9mqthcR)
+[2023-01-07T02:58:16.943382 19900] Reading embedded entry #0 .o (133659 bytes)
+[2023-01-07T02:58:16.943382 19900] Writing to module.__main__.o
+[2023-01-07T02:58:16.943382 19900] Succeeded getting cached result
+[2023-01-07T02:58:16.944382 19900] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/92q6892buhhse4vg8q4dbhpunoni5b0M
+[2023-01-07T02:58:16.958384 26492] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:16.958384 26492] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) base_dir = 
+[2023-01-07T02:58:16.958384 26492] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:16.958384 26492] Config: (default) compiler = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:16.958384 26492] Config: (default) compiler_type = auto
+[2023-01-07T02:58:16.958384 26492] Config: (default) compression = true
+[2023-01-07T02:58:16.958384 26492] Config: (default) compression_level = 0
+[2023-01-07T02:58:16.958384 26492] Config: (default) cpp_extension = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) debug = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) debug_dir = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) depend_mode = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) direct_mode = true
+[2023-01-07T02:58:16.958384 26492] Config: (default) disable = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) file_clone = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) hard_link = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) hash_dir = true
+[2023-01-07T02:58:16.958384 26492] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) ignore_options = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) inode_cache = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:16.958384 26492] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:16.958384 26492] Config: (default) max_files = 0
+[2023-01-07T02:58:16.958384 26492] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:16.958384 26492] Config: (default) namespace = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) path = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) prefix_command = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) read_only = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) read_only_direct = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) recache = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) reshare = false
+[2023-01-07T02:58:16.958384 26492] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:16.958384 26492] Config: (default) secondary_storage = 
+[2023-01-07T02:58:16.958384 26492] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:16.958384 26492] Config: (default) stats = true
+[2023-01-07T02:58:16.958384 26492] Config: (default) stats_log = 
+[2023-01-07T02:58:16.958384 26492] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:16.958384 26492] Config: (default) umask = 
+[2023-01-07T02:58:16.958384 26492] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2023-01-07T02:58:16.967382 26492] Hostname: Nameless
+[2023-01-07T02:58:16.967382 26492] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:16.967382 26492] Compiler type: gcc
+[2023-01-07T02:58:16.967382 26492] Source file: static_src\CompiledGeneratorType.c
+[2023-01-07T02:58:16.967382 26492] Object file: static_src\CompiledGeneratorType.o
+[2023-01-07T02:58:16.968383 26492] Trying direct lookup
+[2023-01-07T02:58:16.968383 26492] No e7cfo1g332u4muo4mvv2njb6tji2oldgg in primary storage
+[2023-01-07T02:58:16.970382 26492] Running preprocessor
+[2023-01-07T02:58:16.986385 22748] Got result key from preprocessor
+[2023-01-07T02:58:16.987382 22748] Retrieved bf39kdjoaccdbvioos95lmo31urin6pks from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/39kdjoaccdbvioos95lmo31urin6pksR)
+[2023-01-07T02:58:16.987382 22748] Reading embedded entry #0 .o (9982 bytes)
+[2023-01-07T02:58:16.987382 22748] Writing to module.PySide6.QtCore-postLoad.o
+[2023-01-07T02:58:16.988384 22748] Succeeded getting cached result
+[2023-01-07T02:58:16.988384 22748] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/1/612ea735c6fl4vo8pc12el803ufk5goM
+[2023-01-07T02:58:17.154382 19900] Using default compression level 1
+[2023-01-07T02:58:17.157382 19900] Stored 6392q6892buhhse4vg8q4dbhpunoni5b0 in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/92q6892buhhse4vg8q4dbhpunoni5b0M)
+[2023-01-07T02:58:17.157382 19900] Result: direct_cache_miss
+[2023-01-07T02:58:17.157382 19900] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.157382 19900] Result: primary_storage_hit
+[2023-01-07T02:58:17.157382 19900] Result: primary_storage_miss
+[2023-01-07T02:58:17.157382 19900] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-01-07T02:58:17.159382 19900] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-01-07T02:58:17.161386 19900] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/stats.lock
+[2023-01-07T02:58:17.162384 19900] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/stats.lock
+[2023-01-07T02:58:17.163382 19900] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.sxCKMH
+[2023-01-07T02:58:17.163382 19900] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ylYzTa.i
+[2023-01-07T02:58:17.164384 19900] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ylYzTa
+[2023-01-07T02:58:17.196384 22748] Using default compression level 1
+[2023-01-07T02:58:17.198383 22748] Stored e1612ea735c6fl4vo8pc12el803ufk5go in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/1/612ea735c6fl4vo8pc12el803ufk5goM)
+[2023-01-07T02:58:17.199384 22748] Result: direct_cache_miss
+[2023-01-07T02:58:17.199384 22748] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.199384 22748] Result: primary_storage_hit
+[2023-01-07T02:58:17.199384 22748] Result: primary_storage_miss
+[2023-01-07T02:58:17.199384 22748] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-01-07T02:58:17.201382 22748] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-01-07T02:58:17.203385 22748] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/stats.lock
+[2023-01-07T02:58:17.204385 22748] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/stats.lock
+[2023-01-07T02:58:17.205383 22748] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.MOfLje
+[2023-01-07T02:58:17.206382 22748] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.DwpKd0.i
+[2023-01-07T02:58:17.207384 22748] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.DwpKd0
+[2023-01-07T02:58:17.218385 7204 ] === CCACHE 4.6 STARTED =========================================
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) absolute_paths_in_stderr = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) base_dir = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (environment) cache_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) compiler = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) compiler_check = mtime
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) compiler_type = auto
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) compression = true
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) compression_level = 0
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) cpp_extension = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) debug = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) debug_dir = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) depend_mode = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) direct_mode = true
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) disable = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) extra_files_to_hash = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) file_clone = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) hard_link = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) hash_dir = true
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) ignore_headers_in_manifest = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) ignore_options = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) inode_cache = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) keep_comments_cpp = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) limit_multiple = 0.8
+[2023-01-07T02:58:17.218385 7204 ] Config: (environment) log_file = E:\mycode\python\DARKSO~1\out\main.build\ccache-23704.txt
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) max_files = 0
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) max_size = 5.0G
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) namespace = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) path = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) pch_external_checksum = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) prefix_command = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) prefix_command_cpp = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) read_only = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) read_only_direct = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) recache = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) reshare = false
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) run_second_cpp = true
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) secondary_storage = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) stats = true
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) stats_log = 
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) temporary_dir = F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-01-07T02:58:17.218385 7204 ] Config: (default) umask = 
+[2023-01-07T02:58:17.218385 7204 ] Command line: F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IF:\Users\kebiq\AppData\Local\Programs\Python\Python310\include -I. -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\include -IE:\mycode\python\DARKSO~1\venv\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2023-01-07T02:58:17.228383 7204 ] Hostname: Nameless
+[2023-01-07T02:58:17.228383 7204 ] Working directory: E:/mycode/python/DARKSO~1/out/main.build
+[2023-01-07T02:58:17.228383 7204 ] Compiler type: gcc
+[2023-01-07T02:58:17.229384 7204 ] Source file: static_src\InspectPatcher.c
+[2023-01-07T02:58:17.229384 7204 ] Object file: static_src\InspectPatcher.o
+[2023-01-07T02:58:17.229384 7204 ] Trying direct lookup
+[2023-01-07T02:58:17.229384 7204 ] No e5dbm15m67g2detr3maolv4md5hmi873q in primary storage
+[2023-01-07T02:58:17.232383 7204 ] Running preprocessor
+[2023-01-07T02:58:17.273384 18396] Got result key from preprocessor
+[2023-01-07T02:58:17.273384 18396] No 012fnscjpqu0nmiv72oi7ul7j8v190hrk in primary storage
+[2023-01-07T02:58:17.273384 18396] Running real compiler
+[2023-01-07T02:58:17.379383 21300] Got result key from preprocessor
+[2023-01-07T02:58:17.380383 21300] Retrieved 67f2e7np27mj0gk8s5ohc32ulg1hmr7r4 from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/f2e7np27mj0gk8s5ohc32ulg1hmr7r4R)
+[2023-01-07T02:58:17.381382 21300] Reading embedded entry #0 .o (53995 bytes)
+[2023-01-07T02:58:17.381382 21300] Writing to module.PySide6.o
+[2023-01-07T02:58:17.381382 21300] Succeeded getting cached result
+[2023-01-07T02:58:17.381382 21300] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/a/91akirj6e0tpc771g0g84anm4mmrge4M
+[2023-01-07T02:58:17.431383 16276] Got result key from preprocessor
+[2023-01-07T02:58:17.431383 16276] Retrieved 8455l0d1s27aq0p5fgos1h18lp615h08g from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/4/55l0d1s27aq0p5fgos1h18lp615h08gR)
+[2023-01-07T02:58:17.433384 16276] Reading embedded entry #0 .o (25763 bytes)
+[2023-01-07T02:58:17.433384 16276] Writing to module.config.o
+[2023-01-07T02:58:17.433384 16276] Succeeded getting cached result
+[2023-01-07T02:58:17.433384 16276] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/4/8f7duhqjqfaoo4k8chpfnvi13vbqko2M
+[2023-01-07T02:58:17.437383 9904 ] Got result key from preprocessor
+[2023-01-07T02:58:17.438383 9904 ] Retrieved 435c3hj4judb6rmtpvsht36im77820eie from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/3/5c3hj4judb6rmtpvsht36im77820eieR)
+[2023-01-07T02:58:17.438383 9904 ] Reading embedded entry #0 .o (5766 bytes)
+[2023-01-07T02:58:17.438383 9904 ] Writing to static_src\CompiledCellType.o
+[2023-01-07T02:58:17.439383 9904 ] Succeeded getting cached result
+[2023-01-07T02:58:17.440384 9904 ] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/d/2eon8um2hqi11828ve9m72sq3doif2kM
+[2023-01-07T02:58:17.446385 25792] Got result key from preprocessor
+[2023-01-07T02:58:17.447383 25792] Retrieved 49c4c7f40odilvsfeva3qcmr9acvl4002 from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/9/c4c7f40odilvsfeva3qcmr9acvl4002R)
+[2023-01-07T02:58:17.447383 25792] Reading embedded entry #0 .o (11280 bytes)
+[2023-01-07T02:58:17.447383 25792] Writing to module.shiboken6.o
+[2023-01-07T02:58:17.448385 25792] Succeeded getting cached result
+[2023-01-07T02:58:17.448385 25792] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/d6tmumt76tto4jvs0het296i929ed3oM
+[2023-01-07T02:58:17.451384 9952 ] Got result key from preprocessor
+[2023-01-07T02:58:17.454384 9952 ] Retrieved e783u3s5li09ig82e08pefqmaltb7v1ng from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/7/83u3s5li09ig82e08pefqmaltb7v1ngR)
+[2023-01-07T02:58:17.459382 9952 ] Reading embedded entry #0 .o (91976 bytes)
+[2023-01-07T02:58:17.459382 9952 ] Writing to module.ui_untitled.o
+[2023-01-07T02:58:17.460384 9952 ] Succeeded getting cached result
+[2023-01-07T02:58:17.463382 9952 ] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/4/04k3q2osdouvoqvbdqltq2tb0dm9mi2M
+[2023-01-07T02:58:17.523384 21300] Using default compression level 1
+[2023-01-07T02:58:17.526384 21300] Stored 5a91akirj6e0tpc771g0g84anm4mmrge4 in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/a/91akirj6e0tpc771g0g84anm4mmrge4M)
+[2023-01-07T02:58:17.526384 21300] Result: direct_cache_miss
+[2023-01-07T02:58:17.526384 21300] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.526384 21300] Result: primary_storage_hit
+[2023-01-07T02:58:17.526384 21300] Result: primary_storage_miss
+[2023-01-07T02:58:17.527382 21300] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-01-07T02:58:17.529385 21300] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2023-01-07T02:58:17.530383 21300] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/stats.lock
+[2023-01-07T02:58:17.534385 21300] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/stats.lock
+[2023-01-07T02:58:17.535384 21300] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.W7sHI1
+[2023-01-07T02:58:17.535384 21300] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.sOqPiX.i
+[2023-01-07T02:58:17.536384 21300] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.sOqPiX
+[2023-01-07T02:58:17.588384 9904 ] Using default compression level 1
+[2023-01-07T02:58:17.591384 9904 ] Stored bd2eon8um2hqi11828ve9m72sq3doif2k in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/d/2eon8um2hqi11828ve9m72sq3doif2kM)
+[2023-01-07T02:58:17.591384 9904 ] Result: direct_cache_miss
+[2023-01-07T02:58:17.591384 9904 ] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.591384 9904 ] Result: primary_storage_hit
+[2023-01-07T02:58:17.591384 9904 ] Result: primary_storage_miss
+[2023-01-07T02:58:17.591384 9904 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-01-07T02:58:17.593384 9904 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2023-01-07T02:58:17.594382 9904 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/stats.lock
+[2023-01-07T02:58:17.595383 26440] Got result key from preprocessor
+[2023-01-07T02:58:17.595383 26440] Retrieved 7959l8u7etq6ur8alkci93o4hc6c32eae from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/9/59l8u7etq6ur8alkci93o4hc6c32eaeR)
+[2023-01-07T02:58:17.596384 26440] Reading embedded entry #0 .o (466 bytes)
+[2023-01-07T02:58:17.596384 26440] Writing to __helpers.o
+[2023-01-07T02:58:17.597384 26440] Succeeded getting cached result
+[2023-01-07T02:58:17.597384 9904 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/stats.lock
+[2023-01-07T02:58:17.597384 26440] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/bcgp44im5qffjk88bhgp4eo9savi62qM
+[2023-01-07T02:58:17.597384 9904 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.PA5NOH
+[2023-01-07T02:58:17.598383 9904 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.TTxnrE.i
+[2023-01-07T02:58:17.599384 9904 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.TTxnrE
+[2023-01-07T02:58:17.611383 16276] Using default compression level 1
+[2023-01-07T02:58:17.611383 25792] Using default compression level 1
+[2023-01-07T02:58:17.613384 16276] Stored 148f7duhqjqfaoo4k8chpfnvi13vbqko2 in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/4/8f7duhqjqfaoo4k8chpfnvi13vbqko2M)
+[2023-01-07T02:58:17.614383 25792] Stored c6d6tmumt76tto4jvs0het296i929ed3o in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/d6tmumt76tto4jvs0het296i929ed3oM)
+[2023-01-07T02:58:17.614383 8380 ] Got result key from preprocessor
+[2023-01-07T02:58:17.614383 25792] Result: direct_cache_miss
+[2023-01-07T02:58:17.614383 25792] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.614383 25792] Result: primary_storage_hit
+[2023-01-07T02:58:17.614383 25792] Result: primary_storage_miss
+[2023-01-07T02:58:17.614383 8380 ] Retrieved ef43lan7dlkcsb0l8bmbhdl23mect2q64 from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/43lan7dlkcsb0l8bmbhdl23mect2q64R)
+[2023-01-07T02:58:17.614383 25792] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-01-07T02:58:17.615385 8380 ] Reading embedded entry #0 .o (2821 bytes)
+[2023-01-07T02:58:17.615385 8380 ] Writing to __constants.o
+[2023-01-07T02:58:17.615385 16276] Result: direct_cache_miss
+[2023-01-07T02:58:17.615385 16276] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.615385 16276] Result: primary_storage_hit
+[2023-01-07T02:58:17.615385 16276] Result: primary_storage_miss
+[2023-01-07T02:58:17.615385 8380 ] Succeeded getting cached result
+[2023-01-07T02:58:17.616385 16276] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-01-07T02:58:17.616385 8380 ] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/f/banf0isch7fe45n648pjq5ek0irctm2M
+[2023-01-07T02:58:17.617382 25792] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-01-07T02:58:17.619383 16276] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-01-07T02:58:17.620385 25792] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/stats.lock
+[2023-01-07T02:58:17.621384 16276] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/4/stats.lock
+[2023-01-07T02:58:17.624383 16276] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/4/stats.lock
+[2023-01-07T02:58:17.624383 16276] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.zLpuR3
+[2023-01-07T02:58:17.625385 16276] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.o450fO.i
+[2023-01-07T02:58:17.626385 16276] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.o450fO
+[2023-01-07T02:58:17.626385 25792] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/0/stats.lock
+[2023-01-07T02:58:17.629384 9952 ] Using default compression level 1
+[2023-01-07T02:58:17.631384 25792] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.4ZX2in
+[2023-01-07T02:58:17.631384 25792] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.csoM9n.i
+[2023-01-07T02:58:17.633384 25792] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.csoM9n
+[2023-01-07T02:58:17.634385 9952 ] Stored 2404k3q2osdouvoqvbdqltq2tb0dm9mi2 in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/4/04k3q2osdouvoqvbdqltq2tb0dm9mi2M)
+[2023-01-07T02:58:17.637386 9952 ] Result: direct_cache_miss
+[2023-01-07T02:58:17.637386 9952 ] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.637386 9952 ] Result: primary_storage_hit
+[2023-01-07T02:58:17.637386 9952 ] Result: primary_storage_miss
+[2023-01-07T02:58:17.637386 9952 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-01-07T02:58:17.640384 9952 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-01-07T02:58:17.640384 9952 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/stats.lock
+[2023-01-07T02:58:17.646383 9952 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/stats.lock
+[2023-01-07T02:58:17.646383 9952 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.HYMvlo
+[2023-01-07T02:58:17.646383 9952 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.STORlb.i
+[2023-01-07T02:58:17.647385 9952 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.STORlb
+[2023-01-07T02:58:17.727384 26440] Using default compression level 1
+[2023-01-07T02:58:17.730385 26440] Stored 11bcgp44im5qffjk88bhgp4eo9savi62q in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/bcgp44im5qffjk88bhgp4eo9savi62qM)
+[2023-01-07T02:58:17.730385 26440] Result: direct_cache_miss
+[2023-01-07T02:58:17.730385 26440] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.730385 26440] Result: primary_storage_hit
+[2023-01-07T02:58:17.730385 26440] Result: primary_storage_miss
+[2023-01-07T02:58:17.731386 26440] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-01-07T02:58:17.733385 26440] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-01-07T02:58:17.733385 8380 ] Using default compression level 1
+[2023-01-07T02:58:17.734384 26440] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/stats.lock
+[2023-01-07T02:58:17.736385 26440] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/stats.lock
+[2023-01-07T02:58:17.736385 8380 ] Stored 2fbanf0isch7fe45n648pjq5ek0irctm2 in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/f/banf0isch7fe45n648pjq5ek0irctm2M)
+[2023-01-07T02:58:17.737384 8380 ] Result: direct_cache_miss
+[2023-01-07T02:58:17.737384 8380 ] Result: preprocessed_cache_hit
+[2023-01-07T02:58:17.737384 8380 ] Result: primary_storage_hit
+[2023-01-07T02:58:17.737384 8380 ] Result: primary_storage_miss
+[2023-01-07T02:58:17.737384 8380 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2023-01-07T02:58:17.738385 26440] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.CPDrNo
+[2023-01-07T02:58:17.739384 26440] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.HS0M2f.i
+[2023-01-07T02:58:17.740384 26440] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.HS0M2f
+[2023-01-07T02:58:17.741384 8380 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/stats.lock
+[2023-01-07T02:58:17.745384 8380 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/stats.lock
+[2023-01-07T02:58:17.746387 8380 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.T24vPK
+[2023-01-07T02:58:17.746387 8380 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.h7QST6.i
+[2023-01-07T02:58:17.747386 8380 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.h7QST6
+[2023-01-07T02:58:18.420382 26492] Got result key from preprocessor
+[2023-01-07T02:58:18.420382 26492] Retrieved c29deooiftlnvl1ttn99k0ohvfj63aieg from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/9deooiftlnvl1ttn99k0ohvfj63aiegR)
+[2023-01-07T02:58:18.421383 26492] Reading embedded entry #0 .o (103459 bytes)
+[2023-01-07T02:58:18.421383 26492] Writing to static_src\CompiledGeneratorType.o
+[2023-01-07T02:58:18.421383 26492] Succeeded getting cached result
+[2023-01-07T02:58:18.421383 26492] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/7/cfo1g332u4muo4mvv2njb6tji2oldggM
+[2023-01-07T02:58:18.429385 17604] Got result key from preprocessor
+[2023-01-07T02:58:18.429385 17604] Retrieved c6941osdisb0gu2dl4vfqqjstpjogvo82 from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/941osdisb0gu2dl4vfqqjstpjogvo82R)
+[2023-01-07T02:58:18.431383 17604] Reading embedded entry #0 .o (869427 bytes)
+[2023-01-07T02:58:18.431383 17604] Writing to static_src\CompiledFunctionType.o
+[2023-01-07T02:58:18.434385 17604] Succeeded getting cached result
+[2023-01-07T02:58:18.434385 17604] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/1/fa95lu9khqmj8ju6qehvl0i3g0875gkM
+[2023-01-07T02:58:18.498386 26492] Using default compression level 1
+[2023-01-07T02:58:18.501383 26492] Stored e7cfo1g332u4muo4mvv2njb6tji2oldgg in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/7/cfo1g332u4muo4mvv2njb6tji2oldggM)
+[2023-01-07T02:58:18.501383 26492] Result: direct_cache_miss
+[2023-01-07T02:58:18.501383 26492] Result: preprocessed_cache_hit
+[2023-01-07T02:58:18.501383 26492] Result: primary_storage_hit
+[2023-01-07T02:58:18.501383 26492] Result: primary_storage_miss
+[2023-01-07T02:58:18.502384 26492] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-01-07T02:58:18.503383 26492] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-01-07T02:58:18.504383 26492] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/stats.lock
+[2023-01-07T02:58:18.506385 26492] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/stats.lock
+[2023-01-07T02:58:18.506385 26492] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.3M0qVo
+[2023-01-07T02:58:18.506385 26492] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.qOvPqI.i
+[2023-01-07T02:58:18.507389 26492] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.qOvPqI
+[2023-01-07T02:58:18.519383 17604] Using default compression level 1
+[2023-01-07T02:58:18.522383 17604] Stored 01fa95lu9khqmj8ju6qehvl0i3g0875gk in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/1/fa95lu9khqmj8ju6qehvl0i3g0875gkM)
+[2023-01-07T02:58:18.522383 17604] Result: direct_cache_miss
+[2023-01-07T02:58:18.522383 17604] Result: preprocessed_cache_hit
+[2023-01-07T02:58:18.522383 17604] Result: primary_storage_hit
+[2023-01-07T02:58:18.522383 17604] Result: primary_storage_miss
+[2023-01-07T02:58:18.522383 17604] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-01-07T02:58:18.524385 17604] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-01-07T02:58:18.525386 17604] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/stats.lock
+[2023-01-07T02:58:18.527384 17604] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/stats.lock
+[2023-01-07T02:58:18.527384 17604] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.Bz2ECQ
+[2023-01-07T02:58:18.527384 17604] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.0SqAKA.i
+[2023-01-07T02:58:18.528384 17604] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.0SqAKA
+[2023-01-07T02:58:18.584385 18396] Using default compression level 1
+[2023-01-07T02:58:18.584385 18396] Storing embedded entry #0 .o (6832 bytes) from static_src\MainProgram.o
+[2023-01-07T02:58:18.586384 18396] Stored 012fnscjpqu0nmiv72oi7ul7j8v190hrk in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/1/2fnscjpqu0nmiv72oi7ul7j8v190hrkR)
+[2023-01-07T02:58:18.586384 18396] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/b5o68hp468ovk6qt7hicma7i6ank74mM
+[2023-01-07T02:58:18.598385 7204 ] Got result key from preprocessor
+[2023-01-07T02:58:18.598385 7204 ] Retrieved 0137b0me4p9tu377eb02l52qjn1o71fpq from primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/1/37b0me4p9tu377eb02l52qjn1o71fpqR)
+[2023-01-07T02:58:18.599385 7204 ] Reading embedded entry #0 .o (8960 bytes)
+[2023-01-07T02:58:18.599385 7204 ] Writing to static_src\InspectPatcher.o
+[2023-01-07T02:58:18.599385 7204 ] Succeeded getting cached result
+[2023-01-07T02:58:18.600383 7204 ] Adding result key to F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/5/dbm15m67g2detr3maolv4md5hmi873qM
+[2023-01-07T02:58:18.648381 18396] Using default compression level 1
+[2023-01-07T02:58:18.650382 18396] Stored 03b5o68hp468ovk6qt7hicma7i6ank74m in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/b5o68hp468ovk6qt7hicma7i6ank74mM)
+[2023-01-07T02:58:18.650382 18396] Result: cache_miss
+[2023-01-07T02:58:18.650382 18396] Result: direct_cache_miss
+[2023-01-07T02:58:18.650382 18396] Result: preprocessed_cache_miss
+[2023-01-07T02:58:18.650382 18396] Result: primary_storage_miss
+[2023-01-07T02:58:18.651382 18396] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-01-07T02:58:18.652381 18396] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-01-07T02:58:18.652381 18396] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-01-07T02:58:18.656384 18396] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2023-01-07T02:58:18.657385 18396] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.2H9LeX
+[2023-01-07T02:58:18.657385 18396] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.CEpboF
+[2023-01-07T02:58:18.657385 18396] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.nraStF
+[2023-01-07T02:58:18.658385 18396] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.x9D5DZ.i
+[2023-01-07T02:58:18.659384 18396] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.x9D5DZ
+[2023-01-07T02:58:18.666384 7204 ] Using default compression level 1
+[2023-01-07T02:58:18.668382 7204 ] Stored e5dbm15m67g2detr3maolv4md5hmi873q in primary storage (F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/5/dbm15m67g2detr3maolv4md5hmi873qM)
+[2023-01-07T02:58:18.669382 7204 ] Result: direct_cache_miss
+[2023-01-07T02:58:18.669382 7204 ] Result: preprocessed_cache_hit
+[2023-01-07T02:58:18.669382 7204 ] Result: primary_storage_hit
+[2023-01-07T02:58:18.669382 7204 ] Result: primary_storage_miss
+[2023-01-07T02:58:18.669382 7204 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-01-07T02:58:18.670381 7204 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-01-07T02:58:18.671384 7204 ] Acquired lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/4/stats.lock
+[2023-01-07T02:58:18.675382 7204 ] Releasing lock F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/4/stats.lock
+[2023-01-07T02:58:18.676382 7204 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.drDlaW
+[2023-01-07T02:58:18.676382 7204 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.1ur3NZ.i
+[2023-01-07T02:58:18.677383 7204 ] Unlink F:\Users\kebiq\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.1ur3NZ

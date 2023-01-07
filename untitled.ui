@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>656</width>
+    <height>639</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Souls存档管理工具</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton_selectPath">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>10</y>
+      <width>91</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>选择存档位置</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_path">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>491</width>
+      <height>21</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_createSave">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>120</y>
+      <width>101</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>备份存档</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit_saveName">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>60</y>
+      <width>361</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>26</pointsize>
+     </font>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Microsoft YaHei UI'; font-size:26pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_delectSave">
+    <property name="geometry">
+     <rect>
+      <x>560</x>
+      <y>120</y>
+      <width>91</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>删除存档</string>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="listWidget_saveFile">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>256</width>
+      <height>531</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_replaceSave">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>180</y>
+      <width>361</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string/>
+    </property>
+    <property name="whatsThis">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>恢复存档</string>
+    </property>
+   </widget>
+   <widget class="QProgressBar" name="progressBar_autoSave">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>260</y>
+      <width>361</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;自动存档进度条&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="value">
+     <number>24</number>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_replaceSave_auto">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>410</y>
+      <width>361</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string/>
+    </property>
+    <property name="whatsThis">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>恢复自动存档</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_replaceSave_origin">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>480</y>
+      <width>361</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;替换为打开软件时自动备份的存档&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="whatsThis">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>恢复初始存档</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_openLocalSave">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>550</y>
+      <width>361</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;替换为打开软件时自动备份的存档&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="whatsThis">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>打开存档文件夹</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_renameSave">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>120</y>
+      <width>101</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>重命名</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_openPath">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>10</y>
+      <width>31</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>打开</string>
+    </property>
+   </widget>
+   <widget class="QLCDNumber" name="lcdNumber_autosave">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>290</y>
+      <width>351</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;自动保存的时间&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_startAutoSave">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>340</y>
+      <width>361</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string/>
+    </property>
+    <property name="whatsThis">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>开启自动存档</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>656</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>切换</string>
+    </property>
+    <addaction name="actionDS1"/>
+    <addaction name="actionDS2"/>
+    <addaction name="actionDS3"/>
+    <addaction name="actionER"/>
+   </widget>
+   <addaction name="menu"/>
+  </widget>
+  <action name="actionDS1">
+   <property name="text">
+    <string>DarkSouls1</string>
+   </property>
+  </action>
+  <action name="actionDS2">
+   <property name="text">
+    <string>DarkSouls2</string>
+   </property>
+  </action>
+  <action name="actionDS3">
+   <property name="text">
+    <string>DarkSouls3</string>
+   </property>
+  </action>
+  <action name="actionER">
+   <property name="text">
+    <string>EldenRing</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>pushButton_selectPath</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>select_save_directory()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>589</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>76</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>select_save_directory()</slot>
+ </slots>
+</ui>
